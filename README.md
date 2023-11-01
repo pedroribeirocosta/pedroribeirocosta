@@ -24,26 +24,3 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedroribeirocosta&show_icons=true&theme=vision-friendly-dark" alt="pedroribeirocosta's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroribeirocosta&layout=compact&theme=vision-friendly-dark" alt="pedroribeirocosta's most languages"/>
-</p>
-
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/pedroribeiro-costa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedroribeirocosta-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/pedroribeiro.costa_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pedroribeiro.costa_-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
