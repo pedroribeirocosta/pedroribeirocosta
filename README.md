@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer and Software Development student
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 📘 Atualmente estudando **JavaScript e React**
 
 - ⚡ Fun fact **Oneye 😜**
 
