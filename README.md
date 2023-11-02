@@ -1,6 +1,6 @@
 <img align="right" height="500em" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Ribeiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroribeirocosta&color=yellow" alt="Profile views" /> </p>
+
 
 - 🔥 Junior Web Developer and Software Development student
 
