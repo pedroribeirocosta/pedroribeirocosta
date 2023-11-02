@@ -2,7 +2,7 @@
 <h1 align="left">💫 Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">  sou o Pedro Ribeiro!👋</h1>
 
 
-- 🎓 Estou estudando Desenvolvimento de Software na  [ALURA](https://www.alura.com.br)
+- 🎓 Estou estudando Desenvolvimento de Software na  [ALURA](https://www.alura.com.br) através do programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
 - 💻 Aprendendo JavaScript e ReactJs
 - 🤑 A procura por vaga Dev Júnior 
 - ☕🎮📔 Amante de café, jogos e cultura POP
