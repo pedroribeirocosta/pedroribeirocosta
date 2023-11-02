@@ -6,7 +6,7 @@
 
 - 📘 Atualmente estudando **JavaScript e React**
 
-- ⚡ Fun fact **Sou amante de café, games e DCnauta ☕🎮🦸**
+- ⚡ **Sou amante de café, games e um DCnauta raiz☕🎮🦸**
 
 
 
