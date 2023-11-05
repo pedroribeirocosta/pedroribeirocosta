@@ -15,11 +15,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,html,css,js,react" />
   </a>
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroribeiro.costa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroribeiro-costa)
 
 
